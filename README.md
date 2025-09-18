@@ -113,11 +113,7 @@ def summarize_text(self, text, sentences=2):  # Change to 3 or 4 for longer summ
 
 3. **Custom News Sites**: Add site-specific scrapers in `news_scraper.py`.
 
-## 📈 Performance Metrics
 
-- **Processing Speed**: ~2-3 seconds per article
-- **Compression Ratio**: 60-80% size reduction
-- **Accuracy**: High-quality summaries with proper Bangla formatting
 
 ## 🔧 Troubleshooting
 
@@ -164,22 +160,7 @@ Core libraries used:
 - `pandas` - Data manipulation
 - `nltk` - Natural language processing
 - `sumy` - Text summarization
-- `flask` - Web framework (for future web interface)
 
-## 🚀 Future Enhancements
-
-- [ ] Web interface for easy URL input
-- [ ] Real-time news feed integration
-- [ ] Multiple language support
-- [ ] Advanced AI summarization models
-
-## 👥 Contributing
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add some amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
 
 
 ## 📞 Support
@@ -200,5 +181,6 @@ For support and questions:
 **⭐ Star this repository if you find it useful!**
 
 **Made with ❤️ for automated news processing**
+
 
 
