@@ -68,9 +68,9 @@ Edit the `bangla_news_urls` list in `news_scraper.py` to add your own news URLs:
 
 ```python
 bangla_news_urls = [
-    "https://www.prothomalo.com/your-news-url",
-    "https://www.thedailystar.net/your-news-url",
-    # Add more URLs here
+    "https://www.prothomalo.com/news-url",
+    "https://www.thedailystar.net/news-url",
+    # you can add more URLs here
 ]
 ```
 
@@ -200,4 +200,5 @@ For support and questions:
 **⭐ Star this repository if you find it useful!**
 
 **Made with ❤️ for automated news processing**
+
 
