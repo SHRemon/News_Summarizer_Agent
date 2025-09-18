@@ -28,7 +28,7 @@ This project automatically:
 
 ### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/yourusername/news-summarizer.git
+git clone https://github.com/SHRemon/News_Summarizer_Agent.git
 cd news-summarizer
 ```
 
@@ -200,3 +200,4 @@ For support and questions:
 **⭐ Star this repository if you find it useful!**
 
 **Made with ❤️ for automated news processing**
+
